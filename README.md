@@ -18,7 +18,7 @@ When this is all done, just run the file ```train.py```. You can change the hype
 
 ![folder_model](https://user-images.githubusercontent.com/71872419/199301539-d31f53c7-b664-4e48-b1f6-7cde961a5bac.png)
 
-In this folder you will find the checkpoints (saved every 10 epochs), the images showing the loss and accuracy curves along the epochs, and the text files with the values of accuracy and loss at each epoch. In addition, the checkpoint with the highest accuracy is also saved. Check out the folder in the repository to see the files.
+In this folder you will find the checkpoints (saved every 10 epochs), the images showing the loss and accuracy curves along the epochs, and the text files with the values of accuracy and loss at each epoch. In addition, the checkpoint with the highest accuracy is also saved. Take a look at the example folder in the repository to see the files.
 
 IMPORTANT: the checkpoint files are not actually checkpoints, they are just empty files as an example of what you will find after training a model.
 
