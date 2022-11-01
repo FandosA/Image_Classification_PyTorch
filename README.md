@@ -23,7 +23,7 @@ In this folder you will find the checkpoints (saved every 10 epochs), the images
 
 ![image](https://user-images.githubusercontent.com/71872419/199301321-5e6a7e8a-a55e-4de2-9b40-54392242d31f.png)
 
-##Test the model
+## Test the model
 To test the model, just run the file ```test.py```. You can select the checkpoint you want to make predictions setting the name in the parameters. After running this script, a new json file will have been created in which you can find the name of the images to be predicted along with the class predicted for each image.
 
 ![json_predicts](https://user-images.githubusercontent.com/71872419/199303151-d09c65f0-1721-49a2-b57c-c23e401d25cf.png)
