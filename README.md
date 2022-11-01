@@ -11,7 +11,7 @@ This is a simple convolutional neural network to classify images with PyTorch. T
 ## Download the dataset
 To download the dataset you need to be registered on the Kaggle website. Once registered, you can download the dataset. Then download this repository and unzip the dataset file downloaded to the repository folder. At the end, in the repository folder you should have the next files and folders
 
-![image](https://user-images.githubusercontent.com/71872419/199296300-536e07e8-161e-4403-b5f4-51f8a5f00540.png)
+![image](https://user-images.githubusercontent.com/71872419/199301657-64661d75-1bf0-4244-aa9e-0c7915da9a18.png)
 
 ## Train the model
 When this is all done, just run the file ```train.py```. You can change the hyperparameters modifying them in the code. After training the model, a new folder with the name set in the parameters will have been created (see image below).
