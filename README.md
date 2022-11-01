@@ -21,7 +21,8 @@ When this is all done, just run the file ```train.py```. You can change the hype
 
 In this folder you will find the checkpoints (saved every 10 epochs), the images showing the loss and accuracy curves along the epochs, and the text files with the values of accuracy and loss at each epoch. In addition, the checkpoint with the highest accuracy is also saved.
 
-![image](https://user-images.githubusercontent.com/71872419/199301321-5e6a7e8a-a55e-4de2-9b40-54392242d31f.png)![image](https://user-images.githubusercontent.com/71872419/199301825-4663567c-9ced-4658-9ca9-35f6ed33fa7b.png)
+![image](https://user-images.githubusercontent.com/71872419/199301321-5e6a7e8a-a55e-4de2-9b40-54392242d31f.png)                              ![image](https://user-images.githubusercontent.com/71872419/199301972-c1faed5e-68e2-4d8f-9b14-24e23081f4e2.png)
+
 
 
 
