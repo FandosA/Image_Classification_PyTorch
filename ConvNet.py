@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 31 11:47:30 2022
-
-@author: andre
-"""
-
 import torch.nn as nn
-
 
 class ConvNet(nn.Module):
     
