@@ -8,10 +8,16 @@ This is a simple convolutional neural network to classify images with PyTorch. T
 - sea → 4,
 - street → 5
 
-## Download and prepare the dataset
+## Download the dataset
 To download the dataset you need to be registered on the Kaggle website. Once registered, you can download the dataset. Then download this repository and unzip the dataset file downloaded to the repository folder. At the end, in the repository folder you should have the next files and folders
 
 ![image](https://user-images.githubusercontent.com/71872419/199296300-536e07e8-161e-4403-b5f4-51f8a5f00540.png)
 
 ## Run the model
-When this is all done, just run the file ```train.py```. You can change the hyperparameters modifying them in the code.
+When this is all done, just run the file ```train.py```. You can change the hyperparameters modifying them in the code. After training the model, a new folder will have been created with the name set in the parameters (see image below).
+
+![image](https://user-images.githubusercontent.com/71872419/199299742-8bf4820d-5007-4187-8828-3a8b338f8a76.png)
+
+In this folder you will find the checkpoints (saved every 10 epochs), the images showing the loss and accuracy curves along the epochs, and the text files with the values of accuracy and loss at each epoch.
+
+![image](https://user-images.githubusercontent.com/71872419/199299935-a2d31178-6ff9-427c-896f-1452ee0e7e51.png)
