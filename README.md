@@ -16,7 +16,7 @@ To download the dataset you need to be registered on the Kaggle website. Once re
 ## Run the model
 When this is all done, just run the file ```train.py```. You can change the hyperparameters modifying them in the code. After training the model, a new folder will have been created with the name set in the parameters (see image below).
 
-![image](https://user-images.githubusercontent.com/71872419/199299742-8bf4820d-5007-4187-8828-3a8b338f8a76.png)
+![folder_model](https://user-images.githubusercontent.com/71872419/199300085-b30fa407-1d77-42db-bf08-637c50312792.png)
 
 In this folder you will find the checkpoints (saved every 10 epochs), the images showing the loss and accuracy curves along the epochs, and the text files with the values of accuracy and loss at each epoch.
 
