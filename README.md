@@ -14,7 +14,4 @@ To download the dataset you need to be registered on the Kaggle website. Once re
 ![image](https://user-images.githubusercontent.com/71872419/199296300-536e07e8-161e-4403-b5f4-51f8a5f00540.png)
 
 ## Run the model
-When all of this is ready, simply run the file
-```
-train.py
-```
+When this is all done, just run the file ```train.py```. You can change the hyperparameters modifying them in the code.
