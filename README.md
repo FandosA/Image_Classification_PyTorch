@@ -9,7 +9,7 @@ This is a simple convolutional neural network to classify images with PyTorch. T
 - street → 5
 
 ## Download and prepare the dataset
-To download the dataset you need to be registered on the Kaggle website. Once registered, you can download the dataset. To run the model, and after downloading the dataset, download the repository and then unzip the dataset file to the repository folder. At the end, in the folder you should have the next files and folders (as shown in the image below):
+To download the dataset you need to be registered on the Kaggle website. Once registered, you can download the dataset. Then download this repository and unzip the dataset file downloaded to the repository folder. At the end, in the repository folder you should have the next files and folders (as shown in the image below):
 - seg_pred (folder)
 - seg_test (folder)
 - seg_train (folder)
