@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  1 10:17:06 2022
-
-@author: andre
-"""
-
 import os
 import json
 import torch
